@@ -1,0 +1,9 @@
+Script started on Thu 12 Jan 2017 07:32:13 PM PST
+]0;bentonliu@costello:~/cs141/Assignment1[01;32mbentonliu@costello[01;34m ~/cs141/Assignment1 $[00m java Liu_Decoder.[K < secretText1.txt 
+Your secret message is: the angels have the phone box
+]0;bentonliu@costello:~/cs141/Assignment1[01;32mbentonliu@costello[01;34m ~/cs141/Assignment1 $[00m java Liu_Decoder < secretText1.txt [1P[1@2
+Your secret message is: hit that wire with the connecting hook at precisely 88 miles per hour
+]0;bentonliu@costello:~/cs141/Assignment1[01;32mbentonliu@costello[01;34m ~/cs141/Assignment1 $[00m exit
+exit
+
+Script done on Thu 12 Jan 2017 07:32:27 PM PST

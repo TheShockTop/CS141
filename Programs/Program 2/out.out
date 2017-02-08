@@ -1,0 +1,151 @@
+Script started on Thu 19 Jan 2017 03:40:53 PM PST
+]0;bentonliu@costello:~/cs141/Assignment2[01;32mbentonliu@costello[01;34m ~/cs141/Assignment2 $[00m java Liu_Driver
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 1
+
+Enter the radius of the circle: 2
+
+The area of the circle is: 12.57
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 1
+
+Enter the radius of the circle: -3
+The radius you have inputted is not a positive integer. Please try again.
+Enter the radius of the circle: 3
+
+The area of the circle is: 28.27
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 2
+
+Enter the length of the rectangle: 2
+Enter the width of the rectangle: 3
+
+The area of the rectangle is: 6.00
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 2
+
+Enter the length of the rectangle: -3
+The length you have inputted is not a positive integer. Please try again.
+Enter the length of the rectangle: 2
+Enter the width of the rectangle: -3
+The width you have inputted is not a positive integer. Please try again.
+Enter the width of the rectangle: 2
+
+The area of the rectangle is: 4.00
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 3
+
+Enter the base of the triangle: 3
+Enter the height of the triangle: 4
+
+The area of the triangle is: 6.00
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 4 3
+
+Enter the base of the triangle: -2
+The base you have inputted is not a positive integer. Please try again.
+Enter the base of the triangle: -4
+The base you have inputted is not a positive integer. Please try again.
+Enter the base of the triangle: 4
+Enter the height of the triangle: -4
+The height you have inputted is not a positive integer. Please try again.
+Enter the height of the triangle: 2
+
+The area of the triangle is: 4.00
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 5
+Incorrect Choice, please try again.
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 6
+Incorrect Choice, please try again.
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 7
+Incorrect Choice, please try again.
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 0
+Incorrect Choice, please try again.
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): -5
+Incorrect Choice, please try again.
+
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+
+Enter your choice (1-4): 4
+]0;bentonliu@costello:~/cs141/Assignment2[01;32mbentonliu@costello[01;34m ~/cs141/Assignment2 $[00m quit
+bash: quit: command not found
+]0;bentonliu@costello:~/cs141/Assignment2[01;32mbentonliu@costello[01;34m ~/cs141/Assignment2 $[00m stop
+bash: stop: command not found
+]0;bentonliu@costello:~/cs141/Assignment2[01;32mbentonliu@costello[01;34m ~/cs141/Assignment2 $[00m exit
+exit
+
+Script done on Thu 19 Jan 2017 03:41:54 PM PST
