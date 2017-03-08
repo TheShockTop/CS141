@@ -1,0 +1,51 @@
+public abstract class Liu_BankAccount{
+
+	private int balance;
+    private int deposits;
+    private int withdrawals;
+    private int apr;
+    private int serviceFee;
+
+    // int balance, int number of deposits, int number of withdrawals, int annual percentage rate, int monthly service fee.
+    public BankAccount(){
+        this.balance = 0;
+        this.apr = 0;
+    }
+    public BankAccount(int balance, int apr){
+        this.balance = balance;
+        this.apr = apr;
+    }
+
+    // return balance
+    public int getBalance(){
+        return balance;
+    }
+
+    // make a deposit and increment a deposit
+    public void setDeposit(int amount){
+        balance += amount;
+        deposits++;
+    }
+
+    // return how many deposits were made
+    public int getDeposits(){
+        return deposits;
+    }
+
+    public void getWithdrawal(int amount){
+        balance -= amount;
+        withdrawals++;
+    }
+
+    public void calcInterest(){
+        balance = (balance + (balance * (apr / 12)));
+    }
+
+    public void monthlyProcess(){
+        balance = balance - serviceFee;
+        calcInterest();
+        deposits = 0;
+        withdrawals = 0;
+    }
+}
+

@@ -1,0 +1,38 @@
+Script started on Wed 01 Mar 2017 03:58:16 AM PST
+]0;bentonliu@costello:~/cs141/Assignment5/src[01;32mbentonliu@costello[01;34m ~/cs141/Assignment5/src $[00m java Liu_BankDriver
+Which account would you like to access, regular or savings?: Regular
+What action do you wish to perform 
+(Withdraw, deposit, monthly processing)?: deposit
+Enter amount to deposit: 254
+Account balance is: $254.00.
+
+Which account would you like to access, regular or savings?: regular
+What action do you wish to perform 
+(Withdraw, deposit, monthly processing)?: Withdraw
+Enter amount to withdraw: 100
+Account balance is: $154.00.
+
+Which account would you like to access, regular or savings?: regular
+What action do you wish to perform 
+(Withdraw, deposit, monthly processing)?: Withdraw
+Enter amount to withdraw: 160
+Error - Not enough funds.
+
+Which account would you like to access, regular or savings?: savings
+What action do you wish to perform 
+(Withdraw, deposit, monthly processing)?: monthly processing
+Account balance is: $15.00.
+Savings account is now inactive.
+
+Which account would you like to access, regular or savings?: savings
+What action do you wish to perform 
+(Withdraw, deposit, monthly processing)?: deposit
+Enter amount to deposit: 20
+Account balance is: $35.00.
+Savings account is now active.
+
+Which account would you like to access, regular or savings?: Quit
+]0;bentonliu@costello:~/cs141/Assignment5/src[01;32mbentonliu@costello[01;34m ~/cs141/Assignment5/src $[00m exit
+exit
+
+Script done on Wed 01 Mar 2017 03:59:14 AM PST
